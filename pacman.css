@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+    margin: 0;
+}
+
+#board {
+    width: 100%;
+    max-width: 608px; /* 19 columns × 32px */
+    height: auto;
+    background-color: black;
+    border: 4px solid #b3e5fc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
