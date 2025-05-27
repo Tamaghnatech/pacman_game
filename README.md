@@ -1,4 +1,4 @@
-# 🟡 Pac-Man Game (HTML5 Canvas Clone)
+# 🟡 Pac-Man Game (Clone by Tamaghna)
 
 Welcome to **Lord Nag's** retro remake of the iconic arcade game — **Pac-Man** — built entirely using vanilla **HTML, CSS, and JavaScript**. This browser-based version is lightweight, responsive, and fully playable online.
 
