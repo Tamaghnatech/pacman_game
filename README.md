@@ -72,10 +72,10 @@ The game is rendered on a scalable HTML5 `<canvas>` element with pixel-perfect p
 ---
 
 ## 📷 Visual Snapshot
-Include `pic.png` in the repo root showing the active game screen for reference:
+Include `game.png` in the repo root showing the active game screen for reference:
 
 ```html
-<img src="pic.png" width="700" alt="Game Screenshot" />
+<img src="game.png" width="700" alt="Game Screenshot" />
 ```
 
 ---
