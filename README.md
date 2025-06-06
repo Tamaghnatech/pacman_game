@@ -8,7 +8,7 @@ Welcome to **Lord Nag's** retro remake of the iconic arcade game — **Pac-Man**
 
 ## 🎮 Live Game
 Play the game instantly via GitHub Pages:
-👉 **[Click Here to Play](https://tamaghnatech.github.io/pacman_game/)**
+👉 **[Click Here to Play](https://pacman.tamaghnatech.in/)**
 
 ---
 
