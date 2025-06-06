@@ -11,6 +11,13 @@ Play the game instantly via GitHub Pages:
 👉 **[Click Here to Play](https://pacman.tamaghnatech.in/)**
 
 ---
+## 📺 Gameplay Preview
+
+[![Watch Pac-Man in Action](https://user-images.githubusercontent.com/your-id/thumbnail.jpg)](https://user-images.githubusercontent.com/your-id/pacman_gameplay.mp4)
+
+> Click the thumbnail to watch a short screen recording of the game!
+
+---
 
 ## 📌 Game Overview
 This Pac-Man clone replicates the essential mechanics of the original classic:
